@@ -1,7 +1,7 @@
 -- Configuration
 function love.conf(t)
-	t.title = "Shooter"
-	t.author = "DEC2015"
+	t.title = "Marieka-Shooter"
+	t.author = "JDJ"
 	t.version = "11.2"
 	t.window.width = 1000
 	t.window.height = 780
